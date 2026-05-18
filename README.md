@@ -1,5 +1,4 @@
 # Customer_behaviour_analysis
-Data analysis project showcasing customer behavior analysis using python, sql and power BI
 
 📊 Customer Shopping Behavior Analysis
 Overview
@@ -41,13 +40,15 @@ NumPy
 Matplotlib
 Seaborn
 PyODBC / SQLAlchemy
+
 Project Workflow
+
 1. Data Loading
 Imported the dataset into Python
 Loaded data into DataFrames
 Checked data structure and column information
-2. Exploratory Data Analysis (EDA)
 
+2. Exploratory Data Analysis (EDA)
 Performed detailed analysis to understand:
 
 Missing values
@@ -56,8 +57,8 @@ Customer demographics
 Purchase trends
 Revenue patterns
 Category-wise sales
-3. Data Cleaning
 
+3. Data Cleaning
 Applied preprocessing techniques:
 
 Removed duplicates
@@ -65,8 +66,8 @@ Handled missing values
 Corrected data types
 Standardized categorical values
 Created derived metrics
-4. SQL Analysis
 
+4. SQL Analysis
 Imported cleaned data into SQL Server and performed business analysis using SQL queries such as:
 
 Top selling products
@@ -75,8 +76,8 @@ Revenue by category
 Discount usage analysis
 Payment method analysis
 Purchase frequency analysis
-5. Dashboard Development
 
+5. Dashboard Development
 Built an interactive Power BI dashboard including:
 
 KPI cards
@@ -86,8 +87,8 @@ Product performance
 Discount analysis
 Payment insights
 Regional/customer behavior analysis
-6. Reporting & Presentation
 
+6. Reporting & Presentation
 Created:
 
 Detailed business report
@@ -96,7 +97,6 @@ Professional presentation using Gamma
 Dashboard Highlights
 
 Key dashboard metrics include:
-
 Total Revenue
 Total Customers
 Average Order Value
